@@ -1,0 +1,9 @@
+{
+  "name": "bredele-mapify",
+  "description": "Turns any function into an array mapping",
+  "version": "0.0.1",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
